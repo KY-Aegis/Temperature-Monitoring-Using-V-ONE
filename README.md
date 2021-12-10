@@ -17,10 +17,10 @@ Part 3 will perform the same logic for the data source that contains the previou
 # Outer Loop Part 4
 Part 4 will use a nested loop to check if the current value is different from the previous value and assign the current value into an array called finarr if the nested loop fulfils the following requirement:
 
--If the current Name matches the previous Name
--If the current value doesn’t match with the previous value
--If the current timestamp doesn’t match with the previous timestamp
--If the current value is 1 
+-If the current Name matches the previous Name</br>
+-If the current value doesn’t match with the previous value</br>
+-If the current timestamp doesn’t match with the previous timestamp</br>
+-If the current value is 1 </br>
 -If the previous value is 0
 
 # Outer Loop Part 5
